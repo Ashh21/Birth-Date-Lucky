@@ -1,0 +1,49 @@
+
+
+
+body{
+    background-color: var(--primary-color ) ;
+    font-size: large;
+}
+
+:root{
+    --primary-color :  #ff9999;
+}
+
+.container{
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    padding-top: 5rem;
+    
+}
+
+label, input{
+    display: block;
+    margin: auto;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-top: 0.5rem;
+    max-width: 300px;
+    width: 40%;
+    outline: 0;
+    border: transparent;
+}
+
+button{
+    display: block;
+    margin: auto;
+    border: px solid ;
+    background-color: var(--primary-color ) ;
+    border-radius: 05px;
+    padding: 0.5rem;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+p{
+    text-align: center;
+    font-size: large;
+}
